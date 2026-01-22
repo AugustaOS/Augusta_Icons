@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=Augusta_Icons
+Comment=Icon theme made to match with Augusta from WuWa
+
+Inherits=breeze
+Example=folder
+Directories=scalable/places
+
+
