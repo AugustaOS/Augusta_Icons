@@ -4,6 +4,12 @@ Comment=Icon theme made to match with Augusta from WuWa
 
 Inherits=breeze
 Example=folder
-Directories=scalable/places
+Directories=places
+
+
+[places]
+Size=64
+Type=Scalable
+Context=Places
 
 
