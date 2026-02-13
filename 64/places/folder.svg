@@ -5,6 +5,9 @@
    id="svg4"
    sodipodi:docname="folder.svg"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="../../testdir/folder.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,18 +22,18 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="9.579087"
-     inkscape:cx="39.617554"
-     inkscape:cy="43.427938"
+     inkscape:zoom="7.229941"
+     inkscape:cx="33.748547"
+     inkscape:cy="31.397213"
      inkscape:window-width="1918"
-     inkscape:window-height="1037"
+     inkscape:window-height="1041"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     showguides="false">
+     showguides="true">
     <inkscape:grid
-       id="grid6"
+       id="grid2"
        units="px"
        originx="0"
        originy="0"
@@ -42,7 +45,8 @@
        opacity="0.14902"
        empspacing="5"
        enabled="true"
-       visible="true" />
+       visible="true"
+       dotted="false" />
   </sodipodi:namedview>
   <defs
      id="defs3051">
@@ -59,28 +63,29 @@
   </defs>
   <path
      style="fill:#ff7300;fill-opacity:1"
-     d="M 9,6 4,8 V 20 H 3 v 1 0 0 36 1 h 1 56 1 V 57 20 l -1,-1 v -3 -5 0 0 L 56,10 H 32 L 28,6 Z"
+     d="M 4,6 V 20 H 3 v 1 0 0 31 l 10.970417,6 H 60 61 V 57 20 L 60,19.390555 V 16 16 L 49.5,10 31.978969,10.01 28.021031,5.990014 Z"
      class="ColorScheme-Accent"
      id="path1"
-     sodipodi:nodetypes="ccccccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccccccc" />
   <path
      style="fill-opacity:0.33"
-     d="M 9,6 4,8 v 12 h 18 l 4,-4 h 31 l 3,3 V 16 11 L 56,10 H 32 L 28,6 Z"
+     d="m 4,6 v 14 h 18 l 4,-4 h 28 l 6,3.390555 V 16 16 L 49.5,10 H 32 L 28,6 Z"
      id="path2"
-     sodipodi:nodetypes="ccccccccccccc" />
+     sodipodi:nodetypes="cccccccccccc" />
   <path
      style="fill:#ffffff;fill-opacity:0.2"
-     d="m 28,6 3,5 h 2 27 L 56,10 H 33 32 Z m -2,10 -4,4 H 3 v 1 h 20 z"
+     d="m 28,6 3,5 h 2 16 L 60,16 49.5,10 H 33 32 Z m -2,10 -4,4 H 3 v 1 h 20 z"
      id="path3"
-     sodipodi:nodetypes="cccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccc" />
   <path
      style="fill-opacity:0.2;fill-rule:evenodd"
-     d="M 26 16 L 20 19 L 4 19 L 4 20 L 22 20 L 26 16 z M 3 57 L 3 58 L 4 58 L 60 58 L 61 58 L 61 57 L 60 57 L 4 57 L 3 57 z "
+     d="m 26,16 -6,3 H 4 v 1 H 22 Z M 3,50 v 2 l 11,6 h 46 1 v -1 h -1 -46 2 l -2,-1 z"
      class="ColorScheme-Text"
-     id="path4" />
+     id="path4"
+     sodipodi:nodetypes="ccccccccccccccccc" />
   <path
      style="fill:#ffffff;fill-opacity:0.2"
-     d="m 60,21 v 36 h 1 V 20 l -4,-4 z"
+     d="m 60,21 v 36 h 1 V 20 l -7,-4 z"
      id="path6"
      sodipodi:nodetypes="cccccc" />
 </svg>
