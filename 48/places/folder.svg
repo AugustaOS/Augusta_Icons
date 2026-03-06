@@ -19,9 +19,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="32.208333"
-     inkscape:cx="34.276843"
-     inkscape:cy="33.655886"
+     inkscape:zoom="18.497577"
+     inkscape:cx="30.030959"
+     inkscape:cy="18.705152"
      inkscape:window-width="1918"
      inkscape:window-height="1042"
      inkscape:window-x="0"
@@ -57,7 +57,7 @@
       </style>
   </defs>
   <path
-     style="fill:#ff7f2a;fill-opacity:1;stroke:none"
+     style="fill:#ff6600;fill-opacity:1;stroke:none"
      d="M 5,6 V 16 H 4 v 22 l 7,4 H 44 V 16 L 43,15.403622 V 13 L 36,9 H 24 L 21,6 Z"
      class="ColorScheme-Accent"
      id="path1"

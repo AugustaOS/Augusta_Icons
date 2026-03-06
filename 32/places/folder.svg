@@ -20,8 +20,8 @@
      inkscape:deskcolor="#505050"
      showgrid="true"
      inkscape:zoom="18.230097"
-     inkscape:cx="13.165043"
-     inkscape:cy="23.422805"
+     inkscape:cx="13.19247"
+     inkscape:cy="23.477659"
      inkscape:window-width="1918"
      inkscape:window-height="1042"
      inkscape:window-x="0"
@@ -57,7 +57,7 @@
       </style>
   </defs>
   <path
-     style="fill:#ff7f2a;fill-opacity:1;stroke:none"
+     style="fill:#ff6600;fill-opacity:1;stroke:none"
      d="m 2,3 v 7 H 1 V 25.955584 L 6.0483037,29 H 13 31 V 10 L 30,9.4440193 V 8 L 25,5 H 16 L 14,3 Z"
      class="ColorScheme-Accent"
      id="path1"
