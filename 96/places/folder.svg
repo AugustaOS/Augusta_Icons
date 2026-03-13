@@ -1,81 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 96 96"
-   version="1.1"
-   id="svg4"
-   sodipodi:docname="folder.svg"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview4"
-     pagecolor="#505050"
-     bordercolor="#ffffff"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#505050"
-     inkscape:zoom="40.345821"
-     inkscape:cx="13.421464"
-     inkscape:cy="76.662215"
-     inkscape:window-width="1918"
-     inkscape:window-height="1042"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4"
-     showgrid="true">
-    <inkscape:grid
-       id="grid4"
-       units="px"
-       originx="0"
-       originy="0"
-       spacingx="1"
-       spacingy="1"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14902"
-       empspacing="5"
-       enabled="true"
-       visible="true" />
-  </sodipodi:namedview>
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg4" version="1.1" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs3051">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#232629;
       }
       .ColorScheme-Accent {
         color:#3daee9;
-      }
-      </style>
-  </defs>
-  <path
-     style="fill:#ff6600"
-     d="M 6,9 V 30 H 5 v 48 l 15.5,9 H 91 V 30.021592 L 81,24 90,29.42236 V 24 L 74.5,15 H 48 L 42,9 Z"
-     class="ColorScheme-Accent"
-     id="path1"
-     sodipodi:nodetypes="cccccccccccccc" />
-  <path
-     style="fill-opacity:0.33"
-     d="m 6,9 v 21 h 27 l 6,-6 h 42 l 9,5.42236 V 24 L 74.5,15 H 48 L 42,9 Z"
-     id="path2"
-     sodipodi:nodetypes="ccccccccccc" />
-  <path
-     style="fill:#ffffff;fill-opacity:0.2"
-     d="m 42,9 5,7 H 74 L 90,24 74.5,15 H 48 Z m -3,15 -6,6 H 5 v 1 h 29 z m 42,0 9,7 -0.02295,55 H 91 V 30.021592 Z"
-     id="path3"
-     sodipodi:nodetypes="ccccccccccccccccccc" />
-  <path
-     style="fill-opacity:0.2;fill-rule:evenodd"
-     d="m 39,24 -7,5 H 6 v 1 H 33 Z M 5,75.968522 V 78 l 15.5,9 H 91 v -1 l -68.810532,-0.01902 z"
-     class="ColorScheme-Text"
-     id="path4"
-     sodipodi:nodetypes="ccccccccccccc" />
+      }</style>
+ </defs>
+ <path id="path1" class="ColorScheme-Accent" d="m6 9v21h-1v48l15.5 9h70.5v-56.978l-10-6.0216 9 5.4224v-5.4224l-15.5-9h-26.5l-6-6z" fill="#f60"/>
+ <path id="path2" d="m6 9v21h27l6-6h42l9 5.4224v-5.4224l-15.5-9h-26.5l-6-6z" fill-opacity=".33"/>
+ <path id="path3" d="m42 9 5 7h27l16 8-15.5-9h-26.5zm-3 15-6 6h-28v1h29zm42 0 9 7-0.02295 55h1.023v-55.978z" fill="#fff" fill-opacity=".2"/>
+ <path id="path4" class="ColorScheme-Text" d="m39 24-7 5h-26v1h27zm-34 51.969v2.0315l15.5 9h70.5v-1l-68.811-0.01902z" fill-opacity=".2" fill-rule="evenodd"/>
 </svg>
